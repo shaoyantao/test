@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 切换dev分支
-master 分支修改
+重新修改为master分支
